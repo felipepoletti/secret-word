@@ -43,8 +43,8 @@ function App() {
     wordLetter = wordLetter.map((l) => l.toLowerCase());
 
     setpickedWord(word);
-    setLetters(wordLetter);
     setPickedCategory(category);
+    setLetters(wordLetter);
     setGameStage(stages[1].name);
   };
 
