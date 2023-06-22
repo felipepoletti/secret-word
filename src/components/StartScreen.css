@@ -1,0 +1,9 @@
+.start h1 {
+    font-size: 2.5em;
+}
+
+.start p {
+    margin-top: 2em;
+    color: #FFF;
+    font-weight: bold;
+}
